@@ -1,0 +1,9 @@
+# skip auto-generated directory
+_site
+
+# Auto-generated files
+sidebar.html
+syllabus.md
+
+# bad
+.git-bad
