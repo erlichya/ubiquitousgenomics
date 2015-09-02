@@ -12,7 +12,7 @@ relative_permalinks: true
 title:            Ubiquitous Genomics
 tagline:          'A Jekyll theme'
 description:      'COMSE6998'
-url:              https://ubiquitousgenomics.github.io
+url:              http://ubiquitousgenomics.teamerlich.org/
 baseurl:          /
 
 author:
@@ -25,7 +25,7 @@ paginate:         5
 version:          2015
 
 github:
-  repo:           https://github.com/ubiquitousgenomics/ubiquitousgenomics.github.io
+  repo:           https://github.com/erlichya/ubiquitousgenomics
 
 
 affilation:       
